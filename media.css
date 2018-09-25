@@ -1,0 +1,242 @@
+@media screen and (max-width:2560px) {
+
+			.rowMeetTeam
+			{			
+				position:relative;
+				left:0px;
+				top:0px;
+				margin:3px;
+			}
+			/* Matematik bölümü css */
+			.masthead-brand  
+			{
+				position:fixed;
+				top:2px;
+				left:20px;
+			
+			}			
+			/* Home ve Hakkımda css  */
+			.masthead-nav  
+			{
+				position:fixed;
+				right:20px;
+				top:2px;
+			}
+			.columnMeetTeam
+			{
+				float: left;
+				width: 33.3%;
+				margin-bottom: 40px;
+				padding: 10px 10px;
+			}
+			.mastfoot
+			{
+				bottom:-12px;
+				z-index:-1;
+				display:none;
+			}			
+
+}
+
+@media screen and (min-width:1024px) and (max-width:1439px) { /* 1440px*/
+
+	.rowMeetTeam
+			{			
+				position:relative;
+				left:0px;
+				top:0px;
+				margin:3px;
+			}
+			/* Matematik bölümü css */
+			.masthead-brand  
+			{
+				position:fixed;
+				top:2px;
+				left:20px;
+			
+			}			
+			/* Home ve Hakkımda css  */
+			.masthead-nav  
+			{
+				position:fixed;
+				right:20px;
+				top:2px;
+			}
+			.columnMeetTeam
+			{
+				float: left;
+				width: 33.3%;
+				margin-bottom: 10px;
+				padding: 1px 3px;
+			}
+			.mastfoot
+			{
+				bottom:-12px;
+				z-index:-1;
+				display:none;
+			}			
+
+}
+
+
+@media screen and (min-width:768px) and (max-width:1023px) {/* 1023px*/
+
+	.rowMeetTeam
+			{			
+				position:relative;
+				left:0px;
+				top:0px;
+				margin:3px;
+			}
+			/* Matematik bölümü css */
+			.masthead-brand  
+			{
+				position:fixed;
+				top:2px;
+				left:20px;			
+			}			
+			/* Home ve Hakkımda css  */
+			.masthead-nav  
+			{
+				position:fixed;
+				right:20px;
+				top:2px;
+			}
+			.columnMeetTeam
+			{
+				float: left;
+				width: 50%;
+				margin-bottom: 10px;
+				padding: 1px 3px;
+			}
+			.mastfoot
+			{
+				bottom:-12px;
+				z-index:-1;
+				display:none;
+			}
+}
+
+@media screen and (min-width:425px) and (max-width:767px){
+
+.rowMeetTeam
+			{			
+				position:relative;
+				left:0px;
+				top:0px;
+				margin:3px;
+			}
+			/* Matematik bölümü css */
+			.masthead-brand  
+			{
+				position:fixed;
+				top:2px;
+				left:20px;
+			
+			}			
+			/* Home ve Hakkımda css  */
+			.masthead-nav  
+			{
+				position:fixed;
+				right:20px;
+				top:2px;
+			}
+			.columnMeetTeam
+			{
+				float: left;
+				width: 100%;
+				margin-bottom: 10px;
+				padding: 1px 3px;
+			}
+			.mastfoot
+			{
+				bottom:-12px;
+				z-index:-1;
+				display:none;
+			}			
+	
+
+
+}
+
+@media screen and (min-width:375px) and (max-width:424px){
+
+			.rowMeetTeam
+			{			
+				position:relative;
+				left:0px;
+				top:0px;
+				margin:3px;
+			}
+			/* Matematik bölümü css */
+			.masthead-brand  
+			{
+				position:fixed;
+				top:2px;
+				left:20px;
+			
+			}			
+			/* Home ve Hakkımda css  */
+			.masthead-nav  
+			{
+				position:fixed;
+				right:20px;
+				top:2px;
+			}
+			.columnMeetTeam
+			{
+				float: left;
+				width: 100%;
+				margin-bottom: 10px;
+				padding: 1px 3px;
+			}
+			.mastfoot
+			{
+				bottom:-12px;
+				z-index:-1;
+				display:none;
+			}			
+
+}
+
+@media screen and (min-width:320px) and (max-width:374px){
+
+			
+			.rowMeetTeam
+			{			
+				position:relative;
+				left:0px;
+				top:0px;
+				margin:3px;
+			}
+			/* Matematik bölümü css */
+			.masthead-brand  
+			{
+				position:fixed;
+				top:2px;
+				left:20px;
+			
+			}			
+			/* Home ve Hakkımda css  */
+			.masthead-nav  
+			{
+				position:fixed;
+				right:20px;
+				top:2px;
+				display:block;
+			}
+			.columnMeetTeam
+			{
+				float: left;
+				width: 100%;
+				margin-bottom: 10px;
+				padding: 1px 3px;
+			}
+			.mastfoot
+			{
+				bottom:-12px;
+				z-index:-1;
+				display:none;
+			}			
+
+}
